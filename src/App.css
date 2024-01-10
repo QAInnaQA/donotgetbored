@@ -1,38 +1,85 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.main {
+  padding: 10px;
+  background-color:rgba(225, 202, 219, 0.7);
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+h1 {
+  font-family: 'Titillium Web', sans-serif;
+  color: #392467;
+}
+
+h2 {
+  font-family: 'Titillium Web', sans-serif;
+  text-decoration: underline;
+  color: #de2b85;
+}
+
+.link {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bolder;
+  color: #392467;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+  background-color: #E0AED0;
+}
+
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.mainbtn {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
+  padding: 15px;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 20px;
+  border: 2px solid #392467;
+  background-color: #ea95cf;
+}
+
+.mainbtn:hover {
+  background-color: #392467;
+  color: aliceblue;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.slider {
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.btn {
+  cursor: pointer;
+  border: none;
+  font-size: 40px;
+  background-color: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p {
+  font-family: 'Titillium Web', sans-serif;
+  color: #392467;
+  font-size: 40px;
 }
+
