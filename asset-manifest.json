@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/QAInnaQA/donotgetbored.git/static/css/main.0878b15e.css",
+    "main.js": "/QAInnaQA/donotgetbored.git/static/js/main.d6f63092.js",
+    "static/js/787.94caa391.chunk.js": "/QAInnaQA/donotgetbored.git/static/js/787.94caa391.chunk.js",
+    "static/media/Video.mp4": "/QAInnaQA/donotgetbored.git/static/media/Video.1509f6ea403799c17026.mp4",
+    "index.html": "/QAInnaQA/donotgetbored.git/index.html",
+    "main.0878b15e.css.map": "/QAInnaQA/donotgetbored.git/static/css/main.0878b15e.css.map",
+    "main.d6f63092.js.map": "/QAInnaQA/donotgetbored.git/static/js/main.d6f63092.js.map",
+    "787.94caa391.chunk.js.map": "/QAInnaQA/donotgetbored.git/static/js/787.94caa391.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0878b15e.css",
+    "static/js/main.d6f63092.js"
+  ]
+}
