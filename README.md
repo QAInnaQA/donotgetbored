@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif"/>
 </div>
 
 <h1 align="center"> This is an APP 💻 to help keep yourself busy! height="32"/> </h1>
