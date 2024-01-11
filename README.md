@@ -4,7 +4,7 @@
 </div>
 <hr>
 
-<h3 align="center">This is an APP 💻 to help keep yourself busy! </h3>
+<h3 align="center">This is an APP 💻 will help you stay busy! </h3>
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
